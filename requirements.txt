@@ -1,0 +1,18 @@
+# 番茄钟+任务看板 依赖
+
+# 数据库
+sqlite3  # Python内置
+
+# 数据处理
+datetime  # Python内置
+json      # Python内置
+
+# GUI
+# tkinter  # Python内置
+
+# 可选：图表库（用于统计）
+# matplotlib>=3.7.0
+# pillow>=10.0.0
+
+# 可选：系统通知
+# plyer>=2.1.0
